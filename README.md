@@ -106,7 +106,7 @@ Currently building:
 
 ## 🧠 Security Architecture Flow
 
-```text
+``text
 Log Sources
      ↓
 Normalization Engine
