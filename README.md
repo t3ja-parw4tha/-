@@ -88,16 +88,3 @@ I build scalable security systems that improve detection, triage, response, and 
 
 ---
 
-## GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&hide_border=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&hide_border=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&style=flat-square&color=0EA5E9" />
-</p>
